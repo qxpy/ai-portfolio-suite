@@ -1,0 +1,11 @@
+node_modules
+.next
+.env
+.env.local
+pnpm-lock.yaml
+*.log
+coverage
+.DS_Store
+apps/*/data/*.json
+apps/*/data/charts/*.png
+apps/*/data/uploads/*
