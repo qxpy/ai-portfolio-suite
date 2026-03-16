@@ -1,3 +1,4 @@
+'use client'
 import { ChatPanel } from "@/components/ChatPanel";
 import { DocumentList } from "@/components/DocumentList";
 import { UploadPanel } from "@/components/UploadPanel";
