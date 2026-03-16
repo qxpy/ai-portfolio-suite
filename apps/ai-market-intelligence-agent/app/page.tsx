@@ -1,3 +1,4 @@
+'use client'
 import { HistoryPanel } from "@/components/HistoryPanel";
 import { RunPanel } from "@/components/RunPanel";
 
